@@ -1,6 +1,7 @@
 # MAURI_2_Octave_Audio_Boost
 
 Audio Analog Circuit
+
 4 layer stackup: SIG/PWR - GND - GND - SIG/PWR. Dimension: 50x50 (mm) | 1965x1965 (mil)
 
 
